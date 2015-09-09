@@ -1,2 +1,1 @@
-# Algorithms
 # Sample Algorithm Problems
